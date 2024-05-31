@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994119903709",
+    "project_id": "open-chat-app-e8420",
+    "storage_bucket": "open-chat-app-e8420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994119903709:android:82ac9937741035260a2e34",
+        "android_client_info": {
+          "package_name": "com.example.open_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpFo8FEL4ByqLw-iaTl9LK5UphUjcQczE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
